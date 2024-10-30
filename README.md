@@ -1,10 +1,8 @@
 # Quizbot
 
+![Project Status](https://img.shields.io/badge/Status-In%20Development-yellow)
+
 Dieses Projekt nutzt Natural Language Processing (NLP), um automatisch Quizfragen aus Lerntexten zu generieren. Die Anwendung richtet sich an Lehrkräfte, Studierende oder Entwickler im Bildungsbereich, die eine einfache Möglichkeit zur Quizgenerierung aus Textdokumenten benötigen.
-
-## Projektstatus
-
-⚠️ **Hinweis**: Dieses Projekt befindet sich noch in der Entwicklung und ist daher noch experimentell. Die derzeitige Version dient als Prototyp und ist ideal für die Nutzung in Jupyter Notebooks geeignet. Es sind Erweiterungen geplant, darunter die Verbesserung der Genauigkeit und der Schwierigkeitsklassifikation der generierten Fragen.
 
 ## Funktionsübersicht
 
