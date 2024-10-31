@@ -23,6 +23,6 @@ Dieses Projekt nutzt Natural Language Processing (NLP), um automatisch Quizfrage
 
 ### Installation
 
-1. Installieren Sie die erforderlichen Bibliotheken:
+1. Installation der erforderlichen Bibliotheken:
    ```bash
    pip install transformers nltk
